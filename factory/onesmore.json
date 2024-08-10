@@ -1,0 +1,9 @@
+{
+	"name": "onesmore",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3dda8176-b530-4f6e-9718-dbc23188edb6",
+		"tenantId": "5e8416ee-a242-435f-ac7a-965fffe76951"
+	}
+}
